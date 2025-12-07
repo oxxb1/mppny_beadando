@@ -85,7 +85,6 @@ uvicorn backend.main:app --reload
 ```bash
 streamlit run frontend/app.py
 ```
-### **A rendszer elérhető lesz:**
 
 
 
