@@ -87,7 +87,5 @@ streamlit run frontend/app.py
 ```
 ### **A rendszer elérhető lesz:**
 
-### **Backend: http://localhost:8000**
-### **Frontend: http://localhost:8501**
 
 
